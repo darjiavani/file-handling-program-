@@ -1,3 +1,16 @@
+# INTERNSHIP-TASKS-C-PROGRAMMING
+
+**COMPANY:** CODTECH IT SOLUTIONS  
+
+**NAME:** Avani  
+
+**INTERN ID:** CTIS1064 
+
+**DOMAIN:** C PROGRAMMING  
+
+**DURATION:** 4 WEEKS  
+
+**MENTOR:**  NEELA SANTOSH
 # C Programming Internship – CODTECH IT SOLUTIONS
 
 This repository contains the work completed during my **C Programming Internship at CODTECH IT SOLUTIONS**.  
