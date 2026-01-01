@@ -28,6 +28,8 @@ In this task, a C program is developed to perform basic file operations such as:
 - Appending new data  
 
 This task helped in understanding how files are handled in C using standard library functions.
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/1c3b6188-e0be-43f8-bd4e-fe4f9866cfef" />
+
 
 ---
 
@@ -39,6 +41,8 @@ The program supports the following operations:
 - Traversal of the linked list  
 
 It demonstrates the use of structures, pointers, and dynamic memory allocation.
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/fb832e93-7b92-45eb-90d6-a11298b59a7a" />
+
 
 ---
 
@@ -49,6 +53,9 @@ A simple lexical analyzer is implemented to analyze an input file and identify:
 - Operators  
 
 This task provides an introduction to compiler design concepts, especially the lexical analysis phase.
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/37049de8-56ca-434d-882b-751a7c964a4b" />
+
+
 
 ---
 
@@ -57,6 +64,7 @@ In this task, a basic **data compression and decompression tool** is created usi
 **Run Length Encoding (RLE)** algorithm.
 
 The program compresses repeated characters and can also restore the original data.
+![Uploading Screenshot (125).png…]()
 
 ---
 
