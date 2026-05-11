@@ -93,6 +93,9 @@ This repository is maintained to:
 
 ---
 
+<img width="554" height="763" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/7535ea24-b451-4ca0-816d-492df19f267d" />
+
+---
 ## ✨ Internship Details
 - **Organization:** CODTECH IT SOLUTIONS  
 - **Domain:** C Programming  
